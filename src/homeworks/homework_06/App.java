@@ -1,4 +1,4 @@
-package homework_06;
+package homeworks.homework_06;
 
 import java.util.ArrayList;
 import java.util.List;
