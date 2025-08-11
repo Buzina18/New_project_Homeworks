@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f86a565e-1ffe-445c-acba-77cc5e47ae85" name="Список изменений" comment="ДЗ №6">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_06/redme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_06/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gigaide/gigaide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gigaide/gigaide.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_06/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_06/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_06/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_06/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_06/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_06/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_06/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_06/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +50,13 @@
     "Приложение.Main.executor": "Run",
     "Приложение.Person.executor": "Run",
     "Приложение.Product.executor": "Run",
+    "Приложение.Television.executor": "Run",
     "Приложение.homework_06.Main.executor": "Run",
     "Приложение.homeworks.homework_06.Person.executor": "Run",
     "Приложение.homeworks.homework_06.Product.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="Приложение.homeworks.homework_06.Product">
+  <component name="RunManager" selected="Приложение.Television">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeworks.homework_06.App" />
       <module name="New_project_Homeworks" />
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.Product" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_06.Person" />
       <module name="New_project_Homeworks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.*" />
+          <option name="PATTERN" value="homeworks.homework_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeworks.homework_06.Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_06.Person" />
+    <configuration name="Television" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_06.Television" />
       <module name="New_project_Homeworks" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Приложение.homeworks.homework_06.Product" />
+        <item itemvalue="Приложение.Television" />
         <item itemvalue="Приложение.Main" />
+        <item itemvalue="Приложение.homeworks.homework_06.Product" />
         <item itemvalue="Приложение.App" />
         <item itemvalue="Приложение.homeworks.homework_06.Person" />
-        <item itemvalue="Приложение.Product" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754910859228</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ДЗ №6">
+      <option name="closed" value="true" />
+      <created>1754913882780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754913882781</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
