@@ -1,0 +1,11 @@
+Index: src/homework_07/New.java
+===================================================================
+diff --git a/src/homework_07/New.java b/src/homework_07/New.java
+deleted file mode 100644
+--- a/src/homework_07/New.java	(revision 8818c919689b2220b60242f5836dc6240e8cbbad)
++++ /dev/null	(revision 8818c919689b2220b60242f5836dc6240e8cbbad)
+@@ -1,4 +0,0 @@
+-package homework_07;
+-
+-public class New {
+-}
