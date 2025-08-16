@@ -1,7 +1,4 @@
-package homeworks;
-
-import homeworks.homework_06.Person;
-import homeworks.homework_06.Product;
+package homework_06;
 
 public class Main {
     public static void main(String[] args) {
