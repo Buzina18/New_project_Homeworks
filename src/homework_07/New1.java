@@ -1,4 +1,4 @@
 package homework_07;
 
-public class New {
+public class New1 {
 }
